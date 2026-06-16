@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Economic Mind": {
+      "type": "http",
+      "url": "https://mcp.economicmind.com/mcp"
+    }
+  }
+}

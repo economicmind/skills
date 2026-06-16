@@ -1,0 +1,10 @@
+{
+  "name": "economic-mind",
+  "version": "1.0.0",
+  "description": "Economic Mind plugin. Ships data skills that turn Economic Mind connector data into rigorous, fully-sourced financial and market analysis. Company-at-a-glance financial snapshots, competitor benchmarking, and bottom-up market sizing stress-tested against independent cross-checks. Every figure traces back to its source. The skills produce data, presentation format is up to the user.",
+  "author": {
+    "name": "Economic Mind"
+  },
+  "homepage": "https://economicmind.com",
+  "repository": "https://github.com/economicmind/skills"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "Economic Mind"
+  },
+  "description": "A marketplace of Claude plugins by Economic Mind.",
+  "plugins": [
+    {
+      "name": "economic-mind",
+      "source": "./plugins/economic-mind",
+      "description": "Economic Mind plugin. Ships data skills that turn Economic Mind connector data into rigorous, fully-sourced financial and market analysis (Markdown + JSON): company-at-a-glance snapshots, competitor benchmarking, and bottom-up market sizing with independent cross-checks."
+    }
+  ]
+}
